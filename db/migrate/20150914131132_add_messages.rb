@@ -7,3 +7,4 @@ class AddMessages < ActiveRecord::Migration
   	end
   end
 end
+
